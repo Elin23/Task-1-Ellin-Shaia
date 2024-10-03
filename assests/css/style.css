@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Zilla+Slab:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Zilla Slab", system-ui;
+}
+body{
+    margin: 20px 20px;
+}
+main section{
+    margin-top: 20px;
+}
+main section p{
+    line-height: 1.5;
+}
+main section h2{
+    line-height: 1.5;
+}
+main section h3{
+    line-height: 2.5;
+}
+main .contact-info div{
+    margin-top: 5px;
+}
+main section ul{
+    margin-left: 40px;
+}
+main .follow-me a{
+    text-decoration: none;
+}
+main iframe{
+    border-radius: 50%;
+}
+footer{
+    margin-top: 20px;
+    border-top: 1px solid #666;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
